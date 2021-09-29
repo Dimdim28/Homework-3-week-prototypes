@@ -15,7 +15,7 @@ class Person {
   }
 
   get birth() {
-    return this[1];
+    return this[1]; 
   }
 
   get city() {
